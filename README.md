@@ -18,3 +18,6 @@ Be cool, not dumb.
 
 # Portfolio Site
 A site to contain and display your other sites.
+
+# Resources
+Learn about all things code: https://github.com/sindresorhus/awesome
